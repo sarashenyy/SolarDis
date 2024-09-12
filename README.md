@@ -13,3 +13,8 @@ The training set and the trained model are available via Zenodo at doi: [10.5281
 ## Code
 - `1_preprocess.ipynb`: Preprocess of the spectra, you can skip this step if you use the training set provided.
 - `2_cnn_model.ipynb`: Model prediction and performance evaluation. Including the codes for **Figure 5, Figure 6** and **Figure 7** in the paper.
+
+## Contact
+If you have any questions, please contact me! 📬 shenyy@nao.cas.cn
+
+Collaborations are welcome! 🤝
