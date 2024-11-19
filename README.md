@@ -1,6 +1,6 @@
 # SolarDis
 This repository contains the code used in the paper ["**Distance and stellar parameters estimations of solar-like stars from LAMOST spectroscopic 
-survey**" by **Yue-Yue Shen and A-Li Luo**](https://arxiv.org/abs/2410.11202).
+survey**" by **Yue-Yue Shen and A-Li Luo**](https://www.aanda.org/articles/aa/full_html/2024/11/aa50164-24/aa50164-24.html).
 
 ## Data
 ### Final Catalog
